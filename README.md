@@ -12,8 +12,8 @@
 
 * ### Estatísticas de usuário no GitHub:  
 
-![](https://github-readme-stats.vercel.app/api?username=souviictor&show_icons=true&theme=dark&border_radius=10px&icon_color=00ccff&text_color=ffffff)  
+![](https://github-readme-stats.vercel.app/api?username=souviictor&show_icons=true&theme=dark&border_radius=10px&icon_color=00ccff&text_color=ffffff&layout=compact)  
 
 * ### Linguagens mais usadas:  
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=souviictor&theme=dark&border_radius=10px&text_color=ffffff)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=souviictor&theme=dark&border_radius=10px&text_color=ffffff&layout=compact)
