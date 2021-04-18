@@ -7,7 +7,7 @@
 * ### Redes Sociais:
 
 <p>
-  <a href="https://www.linkedin.com/in/souviictor/" target="_blank">
+  <a href="https://www.linkedin.com/in/souviictor" target="_blank">
     <img src="https://user-images.githubusercontent.com/82673226/115133038-78e72300-9fdb-11eb-96a4-62bd1a7ed46c.png" width=5% height=auto>
   </a>&ensp;
   <a href="https://www.twitter.com/souviictor_" target="_blank">
