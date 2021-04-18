@@ -7,10 +7,10 @@
 * ### Redes Sociais:
 
 <p>
-  <a href="https://www.linkedin.com/in/souviictor/">
+  <a href="https://www.linkedin.com/in/souviictor/" target="_blank">
     <img src="https://user-images.githubusercontent.com/82673226/115133038-78e72300-9fdb-11eb-96a4-62bd1a7ed46c.png" width=5% height=auto>
   </a>&ensp;
-  <a href="https://www.twitter.com/souviictor_">
+  <a href="https://www.twitter.com/souviictor_" target="_blank">
     <img src="https://user-images.githubusercontent.com/82673226/115133067-bc419180-9fdb-11eb-8e70-d72a10f856b2.png" width=5% height=auto>
   </a>
 </p>
