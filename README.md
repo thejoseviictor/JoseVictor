@@ -7,7 +7,7 @@
 * ### Redes Sociais:
 
 <a href="https://www.linkedin.com/in/souviictor/">
-  <img src="https://user-images.githubusercontent.com/82673226/115105804-8945c200-9f37-11eb-9de8-ebd239f7d6b4.png" width=10% height=auto>
+  <img src="https://user-images.githubusercontent.com/82673226/115133038-78e72300-9fdb-11eb-96a4-62bd1a7ed46c.png" width=5% height=auto>
 </a>  
 
 * ### Estatísticas de usuário no GitHub:  
