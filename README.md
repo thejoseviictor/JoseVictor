@@ -4,7 +4,9 @@
 <img src="https://user-images.githubusercontent.com/82673226/115105399-00c62200-9f35-11eb-8c5c-cf79ca6800a4.gif" width=30% height=auto>
 </p>
 
-* ### Redes Sociais:  
+---
+
+* ### Redes Sociais: 
   
 <p>
   <a href="https://www.linkedin.com/in/souviictor" target="_blank">
@@ -15,6 +17,7 @@
   </a>
 </p>
 
+---
 
 * ### Estatísticas de Usuário e Linguagens mais usadas no GitHub:  
 
