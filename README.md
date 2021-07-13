@@ -9,18 +9,6 @@
 ---
 
 <h3 align="center">
-  <b>Redes Sociais:</b>
-</h3>
-
-<p align="center">
-  <a href="https://www.twitter.com/souviictor_" target="_blank">
-    <img src="https://user-images.githubusercontent.com/82673226/115133067-bc419180-9fdb-11eb-8e70-d72a10f856b2.png" width=5% height=auto>
-  </a>
-</p>
-
----
-
-<h3 align="center">
   <b>Estatísticas de Usuário e Linguagens mais usadas no GitHub:</b>
 </h3>
 
