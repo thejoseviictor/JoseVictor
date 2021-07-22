@@ -13,6 +13,6 @@
 </h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=souviictor&show_icons=true&theme=dark&border_radius=10px&icon_color=00ccff&text_color=ffffff&layout=compact" width=45% height=auto>&ensp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=souviictor&theme=dark&border_radius=10px&text_color=ffffff&layout=compact" width=45% height=auto>
+  <img src="https://github-readme-stats.vercel.app/api?username=thejoseviictor&show_icons=true&theme=dark&border_radius=10px&icon_color=00ccff&text_color=ffffff&layout=compact" width=45% height=auto>&ensp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thejoseviictor&theme=dark&border_radius=10px&text_color=ffffff&layout=compact" width=45% height=auto>
 </p>
